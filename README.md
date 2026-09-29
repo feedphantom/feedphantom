@@ -1,12 +1,12 @@
-# `david@github` 👾
+# `feedphantom@github` 👾
 
 ```console
-┌──(david㉿github)-[~]
+┌──(feedphantom㉿github)-[~]
 └─$ whoami
 Cybersecurity engineer | Security engineering + threat intelligence
 ```
 
-I like turning security problems into practical tools, automations, and useful signals.
+I turn security problems into practical tools, automations, and useful signals.
 
 ## `./focus --list`
 
@@ -14,17 +14,17 @@ I like turning security problems into practical tools, automations, and useful s
 
 ## `ls ~/projects`
 
-- **[APTHunter](https://github.com/sweetnight19/APTHunter)** — Query and explore MITRE ATT&CK Enterprise data from a Python CLI or Streamlit dashboard.
-- **[InfoHunter](https://github.com/sweetnight19/InfoHunter)** — OSINT toolkit for username, email, and domain research, with CLI and dashboard workflows.
+- **[APTHunter](https://github.com/feedphantom/APTHunter)** — Explore MITRE ATT&CK Enterprise data through a Python CLI and Streamlit dashboard.
+- **[InfoHunter](https://github.com/feedphantom/InfoHunter)** — OSINT toolkit for username, email, and domain research with CLI and dashboard workflows.
 
 ## `cat ~/toolbox`
 
 `Python` · `Bash` · `Linux` · `Docker` · `Elastic Stack` · `Grafana`
 
-## `ping david`
+## `ping feedphantom`
 
 - [Email](mailto:sweetnight19@protonmail.com)
-- [GitHub](https://github.com/sweetnight19)
+- [GitHub](https://github.com/feedphantom)
 
 ```console
 └─$ echo "Stay curious. Keep things secure."
