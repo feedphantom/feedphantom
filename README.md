@@ -1,6 +1,6 @@
 # Hi, I'm David 👋
 
-I'm a **Cybersecurity Engineer** with **3 years of experience**, primarily focused on security engineering, with additional experience in threat intelligence. I enjoy building practical tools that help make security work clearer and more effective.
+I'm a **Cybersecurity Engineer** focused primarily on security engineering, with additional experience in threat intelligence. I enjoy building practical tools that help make security work clearer and more effective.
 
 ## Focus areas
 
