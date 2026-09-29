@@ -1,24 +1,31 @@
-# Hi, I'm David 👋
+# `david@github` 👾
 
-I'm a **Cybersecurity Engineer** focused primarily on security engineering, with additional experience in threat intelligence. I enjoy building practical tools that help make security work clearer and more effective.
+```console
+┌──(david㉿github)-[~]
+└─$ whoami
+Cybersecurity engineer | Security engineering + threat intelligence
+```
 
-## Focus areas
+I like turning security problems into practical tools, automations, and useful signals.
 
-- Security engineering
-- Threat intelligence
-- Security tooling and automation
+## `./focus --list`
 
-## Featured projects
+`security-engineering` · `threat-intelligence` · `security-tooling`
 
-- **[APTHunter](https://github.com/sweetnight19/APTHunter)** — Explore MITRE ATT&CK Enterprise groups, techniques, malware, tools, and campaigns through a Python CLI and Streamlit dashboard.
-- **[InfoHunter](https://github.com/sweetnight19/InfoHunter)** — A Python OSINT toolkit with CLI and dashboard workflows for username, email, and domain research.
+## `ls ~/projects`
 
-## Tools I work with
+- **[APTHunter](https://github.com/sweetnight19/APTHunter)** — Query and explore MITRE ATT&CK Enterprise data from a Python CLI or Streamlit dashboard.
+- **[InfoHunter](https://github.com/sweetnight19/InfoHunter)** — OSINT toolkit for username, email, and domain research, with CLI and dashboard workflows.
 
-Python · Bash · Linux · Docker · Elastic Stack · Grafana
+## `cat ~/toolbox`
 
-## Contact
+`Python` · `Bash` · `Linux` · `Docker` · `Elastic Stack` · `Grafana`
 
-- Email: [sweetnight19@protonmail.com](mailto:sweetnight19@protonmail.com)
-- GitHub: [@sweetnight19](https://github.com/sweetnight19)
+## `ping david`
 
+- [Email](mailto:sweetnight19@protonmail.com)
+- [GitHub](https://github.com/sweetnight19)
+
+```console
+└─$ echo "Stay curious. Keep things secure."
+```
